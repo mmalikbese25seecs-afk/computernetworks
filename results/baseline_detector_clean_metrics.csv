@@ -1,0 +1,2 @@
+tp,fn,fp,victim_recall,victim_precision,mAP50_all_classes,mAP50_95_all_classes
+773,197,190,0.7969,0.8027,0.7587,0.4294
