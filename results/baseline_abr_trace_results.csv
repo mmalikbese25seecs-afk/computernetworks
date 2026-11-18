@@ -1,0 +1,4 @@
+tp,fn,fp,victim_recall,victim_precision,mean_kb_per_frame,frames_over_budget,method,seed
+545,193,165,0.7385,0.7676,88.3,5,ABR (content-blind),0
+499,239,156,0.6762,0.7618,45.3,13,ABR (content-blind),1
+531,207,151,0.7195,0.7786,51.8,7,ABR (content-blind),2
