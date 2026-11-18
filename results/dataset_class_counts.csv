@@ -1,0 +1,11 @@
+split,class,objects
+train,swimmer,8250
+train,boat,2907
+train,jetski,497
+train,life_saving_appliances,211
+train,buoy,1003
+val,swimmer,1595
+val,boat,569
+val,jetski,88
+val,life_saving_appliances,96
+val,buoy,154
